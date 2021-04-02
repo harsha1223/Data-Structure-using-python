@@ -1,6 +1,6 @@
 queue = []
 def enqueue():
-    e = input("Enter the element:")
+    e = input("Enter the element: ")
     queue.append(e)
     print(e,"is added to queue")
 def dequeue():
