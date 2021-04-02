@@ -23,4 +23,4 @@ while True:
     elif choice == 4:
         break
     else:
-        print("Enter the correct operation from the list")
+        print("Enter the correct operation from the list ")
