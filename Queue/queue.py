@@ -12,7 +12,7 @@ def dequeue():
 def display():
     print(queue)
 while True:
-    print('Select the operation 1. add 2. remove 3. show 4. quit')
+    print('Select the operation 1. add 2. remove 3. show 4. quit ')
     choice=int(input())
     if choice == 1:
         enqueue()
