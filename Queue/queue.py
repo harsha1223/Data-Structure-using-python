@@ -5,7 +5,7 @@ def enqueue():
     print(e,"is added to queue")
 def dequeue():
     if not queue:
-        print('queue is empty')
+        print('queue is empty ')
     else:
         e=queue.pop(0)
         print("removed element is:",e)
