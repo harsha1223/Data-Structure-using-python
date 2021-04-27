@@ -4,6 +4,7 @@ class BST:
         self.leftchild = None
         self.rightchild = None
 
+        
 root = BST(10)
 print(root.key)
 print(root.leftchild)
