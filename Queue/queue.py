@@ -1,4 +1,5 @@
 queue = []
+
 def enqueue():
     e = input("Enter the element: ")
     queue.append(e)
